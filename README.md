@@ -13,3 +13,7 @@ pip install psycopg2
 
 pip freeze > requirements.txt
 ```
+
+```zsh
+python manage.py runserver
+```
